@@ -94,14 +94,6 @@ installation.
 
 ---
 
-## Need professional help?
-
-If you'd rather have this done for you — or want a tailored integration, a turnkey
-build, or commercial support — **[Domedia](https://www.domedia.net)** (Vincèn PUJOL),
-who pioneered this work, offers it as a professional service. Reach out to them directly.
-
----
-
 ## License
 
 Released under the [MIT License](LICENSE) — free to use, adapt and redistribute, including
