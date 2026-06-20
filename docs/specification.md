@@ -209,8 +209,6 @@ AA  00  <wordA hi> <wordA lo>  <wordB hi> <wordB lo>
 ```
 
 Valid across the ~22–29 °C band sampled; accuracy ≈ ±0.66 °C without per-sensor offset.
-Each module may carry a per-sensor offset (≈ ±2 °C) in the original Spline config that the
-controller added; fold it in for sub-0.3 °C accuracy if available.
 
 **Examples:**
 
