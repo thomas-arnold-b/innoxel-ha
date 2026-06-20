@@ -80,7 +80,8 @@ dimmers).
 
 If you have an Innoxel/Spline system, **contributions and corrections are very welcome** —
 especially confirmations from other installs (channel counts, module variants, DALI
-behaviour). Open an issue/PR or reply on the forum thread linked above.
+behaviour). Please **[open an issue or comment on GitHub](https://github.com/thomas-arnold-b/innoxel-ha/issues)**
+(or send a pull request), or reply on the forum thread linked above.
 
 ---
 
@@ -99,3 +100,11 @@ installation.
 If you'd rather have this done for you — or want a tailored integration, a turnkey
 build, or commercial support — **[Domedia](https://www.domedia.net)** (Vincèn PUJOL),
 who pioneered this work, offers it as a professional service. Reach out to them directly.
+
+---
+
+## License
+
+Released under the [MIT License](LICENSE) — free to use, adapt and redistribute, including
+the configuration examples. Attribution to the original protocol work (Vincèn PUJOL /
+Domedia) is appreciated.
