@@ -80,8 +80,7 @@ dimmers).
 
 If you have an Innoxel/Spline system, **contributions and corrections are very welcome** —
 especially confirmations from other installs (channel counts, module variants, DALI
-behaviour). Please **[open an issue or comment on GitHub](https://github.com/thomas-arnold-b/innoxel-ha/issues)**
-(or send a pull request), or reply on the forum thread linked above.
+behaviour). Open an issue or pull request, or reply on the forum thread linked above.
 
 ---
 
