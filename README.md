@@ -25,7 +25,7 @@ working ESPHome integration approach. If you are starting from scratch, **read h
 first** — it is the clearest introduction to the system and the inspiration for everything
 here:
 
-> 📖 **["Use case: freeing a fully locked home-automation system"](https://www.domedia.net/?p=1761&lang=en)** — Domedia
+> 📖 **["Use case: freeing a fully locked home-automation system"](https://www.domedia.net/en/blog/articles-2/use-case-freeing-a-fully-locked-home-automation-system-34)** — Domedia
 
 These notes **build on that foundation** and add the part Vincèn's article left open: the
 **poll protocol** the bus uses for *reading* state and temperature back — the request/reply
